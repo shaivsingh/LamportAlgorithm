@@ -215,7 +215,7 @@ int main()
 	p3 c;
 	//ist step sending requests
 	int y;
-	cout<<"Enter the process to start : ";
+	cout<<"Enter the process to start (1,2,3) : ";
 	cin>>y;
 	if(y==1)//first processor
 	{
