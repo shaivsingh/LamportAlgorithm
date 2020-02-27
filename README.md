@@ -1,2 +1,2 @@
-# scaling-guide
+# LamportAlgorithm
 Lamport
